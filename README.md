@@ -8,26 +8,22 @@
 
 ## <실습 1번>
 
-+1 버튼을 클릭하면 숫자가 1 증가하고, -1 버튼을 클릭하면 숫자가 1 감소하는 Counter를 만들어주세요!   
++1 버튼을 클릭하면 숫자가 1 증가하고, -1 버튼을 클릭하면 숫자가 1 감소하는 Counter를 만들어주세요!  
 <br/>
-src/components/Counter.jsx 에서 진행해주시면 됩니다!
-
+_src/components/Counter.jsx 에서 진행해주시면 됩니다!_
 
 https://user-images.githubusercontent.com/100702397/233433828-af5d17c0-5c79-48c4-b2ef-40b0ef45663a.mp4
-
 
 ---
 
 ## <실습 2번>
 
 이름과 닉네임을 입력할 수 있는 입력창이 있습니다.  
-각 값을 입력했을 때 다음 영상과 같이 아래에 입력한 이름과 닉네임이 표시되도록 코드를 작성해주세요!   
+각 값을 입력했을 때 다음 영상과 같이 아래에 입력한 이름과 닉네임이 표시되도록 코드를 작성해주세요!  
 <br/>
-src/components/Name.jsx 에서 진행해주시면 됩니다!
-
+_src/components/Name.jsx 에서 진행해주시면 됩니다!_
 
 https://user-images.githubusercontent.com/100702397/233433848-71027ac9-f7e6-488e-a7cc-efabdcbb08a1.mp4
-
 
 ---
 
@@ -38,13 +34,14 @@ https://user-images.githubusercontent.com/100702397/233433848-71027ac9-f7e6-488e
 1. 일기를 입력하고 `작성 완료 버튼`을 눌렀을 때, 입력한 내용이 알림창에 표시되도록 해주세요!
 2. `초기화 버튼`을 눌렀을 때는 입력한 값들이 초기화 되도록 해주세요!  
    <br/>
-src/components/Diary.jsx 에서 진행해주시면 됩니다!
 
+_src/components/Diary.jsx 에서 진행해주시면 됩니다!_
 
 https://user-images.githubusercontent.com/100702397/233433889-277ff9d0-2aba-42fe-a8c2-14100653b5eb.mp4
 
+<br/>
 
-- 추가 과제(필수 아님) : useState 문을 단 한 번만 사용하여 과제를 완성시켜 보세요! 가장 먼저 성공하신 두 분께 커피를 사드리겠습니다😁
+- (선택) 추가 과제 : useState 문을 단 한 번만 사용하여 과제를 완성시켜 보세요! 가장 먼저 성공하신 두 분께 커피를 사드리겠습니다😁
 
 <br/>
 
